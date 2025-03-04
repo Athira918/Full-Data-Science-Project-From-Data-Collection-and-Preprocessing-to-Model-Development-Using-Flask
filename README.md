@@ -1,0 +1,2 @@
+# Full-Data-Science-Project-From-Data-Collection-and-Preprocessing-to-Model-Development-Using-Flask
+Data science involves extracting insights from raw data using statistical, machine learning, and computational techniques. This project demonstrates a complete data science pipeline, starting from data collection, preprocessing, exploratory data analysis (EDA), model development, and deployment using Flask.
