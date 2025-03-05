@@ -22,3 +22,5 @@ Users enter house details through a web interface or API request.
 The trained model processes the input and returns a predicted house price.
 The application can be hosted on a cloud platform for accessibility.
 This project demonstrates a complete data science pipeline, from data collection to model deployment. By combining machine learning techniques with Flask, we create a practical and accessible house price prediction system. This project can be further enhanced by incorporating more features, improving model accuracy, and developing a user-friendly interface
+![Image](https://github.com/user-attachments/assets/83318d75-2262-40a9-8a19-3c27b8a11356)
+![Image](https://github.com/user-attachments/assets/288b075a-6a0d-4f5e-bcd1-fa7d62a7c076)
