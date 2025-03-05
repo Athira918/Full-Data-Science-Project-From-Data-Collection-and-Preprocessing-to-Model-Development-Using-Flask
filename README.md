@@ -1,4 +1,5 @@
-# Full-Data-Science-Project-From-Data-Collection-and-Preprocessing-to-Model-Development-Using-Flask
+#End-to-end Data Science project
+
 COMPANY:CODTECH IT SOLUTIONS
 NAME:ATHIRA.K
 INTERN ID:CT08QSM
